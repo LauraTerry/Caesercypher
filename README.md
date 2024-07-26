@@ -14,14 +14,5 @@ Python 3.x installed on your machine.
 ## Instructions
 
 1. Clone the repo to your machine.
-2. Create a virtual environment and install the packages listed in the 
-`requirements.txt` file (instructions below).
-3. Open and run "cypher.py"
 
-### Virtual Environment Commands
-| Command    | Linux/Mac                          | GitBash/Windows                   |
-|------------|------------------------------------|-----------------------------------|
-| Create     | `python3 -m venv venv`          | `python -m venv venv`           |
-| Activate   | `source venv/bin/activate`       | `source venv/Scripts/activate`    |
-| Install    | `pip install -r requirements.txt`  | `pip install -r requirements.txt` |
-| Deactivate | `deactivate`                       | `deactivate`                      |# Caesercypher
+3. Open and run "cypher.py"
